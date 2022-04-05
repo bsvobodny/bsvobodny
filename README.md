@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/bsvobodny/bsvobodny/main/profile.png" alt="Benjamin Svobodny" />
-</h1>
 <h2> Hi, I'm Benjamin Svobodny! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px"></h2>
 <img align='right' src="https://raw.githubusercontent.com/bsvobodny/bsvobodny/main/profile.png" width="230">
 <p><em>Enginner at <a href="https://www.insa-rennes.fr/graduate-school-of-engineering.html">National Institute of Applied Sciences of Rennes, France</a><img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"></br>Web/Mobile Senior Software Designer at <a href="https://www.nbc.ca/">National Bank of Canada</a><img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="30"> 
