@@ -2,9 +2,9 @@
 <img align='right' src="https://raw.githubusercontent.com/bsvobodny/bsvobodny/main/profile.png" width="360">
 <p>
   <ul>
-    <li>Enginner at <a href="https://www.insa-rennes.fr/graduate-school-of-engineering.html">National Institute of Applied Sciences of Rennes, France</a>@nbsp;<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"></li>
+    <li>Enginner at <a href="https://www.insa-rennes.fr/graduate-school-of-engineering.html">National Institute of Applied Sciences of Rennes, France</a>&nbsp;<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"></li>
     <li>
-  Web/Mobile Senior Software Designer at <a href="https://www.nbc.ca/">National Bank of Canada</a>@nbsp;<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="30"> 
+  Web/Mobile Senior Software Designer at <a href="https://www.nbc.ca/">National Bank of Canada</a>&nbsp;<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="30"> 
   </li>
 </ul>
 </p>
