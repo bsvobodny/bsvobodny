@@ -13,33 +13,32 @@
 [![GitHub Bsvobodny](https://img.shields.io/github/followers/bsvobodny?label=follow&style=social)](https://github.com/bsvobodny)
 [![Twitter: Tanagra](https://img.shields.io/twitter/follow/Tanagra?style=social)](https://twitter.com/Tanagra)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 ```javascript
 const bsvobodny = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "TypeScript", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "home automation", "photography", "scuba diving"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        frontEnd: {
+            js: ["React", "Node", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["React Native"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MySql", "sqlite", "mongoDB"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
+    architecture: ["Serverless Architecture", "Single page applications"],
+    currentFocus: "Building better experiences for all",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **bsvobodny/bsvobodny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
