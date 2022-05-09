@@ -39,8 +39,8 @@ const bsvobodny = {
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/VladimirMikulic/parcel-resolver-ignore/pull/5) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
-2. 🎉 Merged PR [#2](https://github.com/bsvobodny/awesomplete/pull/2) in [bsvobodny/awesomplete](https://github.com/bsvobodny/awesomplete)
+1. 🗣 Commented on [#5](https://github.com/VladimirMikulic/parcel-resolver-ignore/issues/5) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
+2. 💪 Opened PR [#5](https://github.com/VladimirMikulic/parcel-resolver-ignore/pull/5) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
