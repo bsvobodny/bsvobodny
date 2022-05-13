@@ -39,8 +39,8 @@ const bsvobodny = {
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/VladimirMikulic/parcel-resolver-ignore/issues/5) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
-2. 🗣 Commented on [#5](https://github.com/VladimirMikulic/parcel-resolver-ignore/issues/5) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
+1. 🗣 Commented on [#6](https://github.com/VladimirMikulic/parcel-resolver-ignore/issues/6) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
+2. 💪 Opened PR [#7](https://github.com/VladimirMikulic/parcel-resolver-ignore/pull/7) in [VladimirMikulic/parcel-resolver-ignore](https://github.com/VladimirMikulic/parcel-resolver-ignore)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
