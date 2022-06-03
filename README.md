@@ -39,8 +39,8 @@ const bsvobodny = {
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bsvobodny/parcel-resolver-ignore/pull/1) in [bsvobodny/parcel-resolver-ignore](https://github.com/bsvobodny/parcel-resolver-ignore)
-2. 💪 Opened PR [#1](https://github.com/bsvobodny/parcel-resolver-ignore/pull/1) in [bsvobodny/parcel-resolver-ignore](https://github.com/bsvobodny/parcel-resolver-ignore)
+1. ❗️ Opened issue [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+2. 🎉 Merged PR [#1](https://github.com/bsvobodny/parcel-resolver-ignore/pull/1) in [bsvobodny/parcel-resolver-ignore](https://github.com/bsvobodny/parcel-resolver-ignore)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
