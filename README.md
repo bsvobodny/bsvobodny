@@ -40,7 +40,7 @@ const bsvobodny = {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
-2. ❗️ Opened issue [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+2. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
