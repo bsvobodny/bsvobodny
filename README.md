@@ -53,11 +53,11 @@ const bsvobodny = {
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#33](https://github.com/SonarSource/sonarqube-scan-action/pull/33) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
-2. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+1. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+2. 💪 Opened PR [#33](https://github.com/SonarSource/sonarqube-scan-action/pull/33) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 3. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
-4. ❗️ Opened issue [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
-5. 🎉 Merged PR [#1](https://github.com/bsvobodny/parcel-resolver-ignore/pull/1) in [bsvobodny/parcel-resolver-ignore](https://github.com/bsvobodny/parcel-resolver-ignore)
+4. 🗣 Commented on [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
+5. ❗️ Opened issue [#31](https://github.com/SonarSource/sonarqube-scan-action/issues/31) in [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
