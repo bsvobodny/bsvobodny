@@ -3,7 +3,7 @@ name: Activity update
 on:
   schedule:
     # UTC
-    - cron: '0 20 * * *'
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 jobs:
