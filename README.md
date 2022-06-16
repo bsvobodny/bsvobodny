@@ -14,10 +14,10 @@
 - 👯 I’m looking to collaborate more on open source projects that I'm using
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Front-End development
-- 🥅 2022 Goals: Learn how to play Guitar, do more scuba diving
+- 🤿 2022 Goals: Learn how to play Guitar, do more scuba diving
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Love music (plays the Trumpet) and scuba diving
-- 📫 How to reach me:
+- ⚡ Fun fact: Love music (plays the Trumpet), scuba diving, woodworking and 3D printing
+- 📮 How to reach me:
 
 [![Linkedin: benjaminsvobodny](https://img.shields.io/badge/-benjaminsvobodny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminsvobodny/)](https://www.linkedin.com/in/benjaminsvobodny/)
 [![GitHub bsvobodny](https://img.shields.io/github/followers/bsvobodny?label=follow&style=social)](https://github.com/bsvobodny)
