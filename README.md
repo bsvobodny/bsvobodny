@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate more on open source projects that I'm using
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Front-End development
-- 🤿 2022 Goals: Learn how to play Guitar, do more scuba diving
+- 🤿 2023 Goals: Learn how to play Guitar, do more scuba diving
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Love music (plays the Trumpet), scuba diving, woodworking and 3D printing
 - 📮 How to reach me:
