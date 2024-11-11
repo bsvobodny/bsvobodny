@@ -7,14 +7,13 @@
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="30">&nbsp;Web/Mobile Senior Software Designer at <a href="https://www.nbc.ca/">National Bank of Canada</a>
 </p>
 
-## I'm a lover, Father of a beautiful girl, Developer and Tech addict!!
+## I'm a lover, Father of a beautiful girl, Developer, Tech addict, Team Leader!!
 
-- 🔭 I’m currently working on AWS certification
 - 🌱 I’m currently learning all I can !!
 - 👯 I’m looking to collaborate more on open source projects that I'm using
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Front-End development
-- 🤿 2023 Goals: Learn how to play Guitar, do more scuba diving
+- 🤿 2025 Goals: Learn how to play Guitar (since 2 years..), do more scuba diving and learn under ice scuba diving
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Love music (plays the Trumpet), scuba diving, woodworking and 3D printing
 - 📮 How to reach me:
